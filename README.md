@@ -1,7 +1,7 @@
 TMDB API Testing - Playwright + TypeScript
 
 1- Introducción
-    Este proyecto contienela suite de pruebas de API para los catálogos contenidos en la web The Movie Database (TMDB).
+    Este proyecto contiene la suite de pruebas de API para los catálogos contenidos en la web The Movie Database (TMDB).
     El objetivo principal de las pruebas es, validar la correcta respuesta de los endpoint al finalizar su ejecución, asegurando:
         - Respuesta integral en las API´s
         - Manejo escenarios positivos (Status code 200)
