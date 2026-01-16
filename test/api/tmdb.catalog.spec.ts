@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { TmdbService } from '../../../src/services/tmdb.service';
+import { TmdbService } from '../../src/services/tmdb.service';
 
 const catalog = [
   '/movie/top_rated',
